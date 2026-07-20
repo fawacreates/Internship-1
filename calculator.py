@@ -1,5 +1,4 @@
-x=2
-y=3
-
-z=x+y
-print(z)
+x=float(input("whats x?"))
+y=float(input("whats y?"))
+z=(x/y)
+print(f"{z:.2f}")
