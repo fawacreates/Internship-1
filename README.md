@@ -1,8 +1,8 @@
-# Internship Learning Journey 🚀
+# Internship Learning Journey 
 
 My daily efforts to land an internship by learning everything from scratch!
 
-## 📚 About This Repository
+## About This Repository
 
 This repository documents my **3-month structured learning plan** to break into aerospace companies as a **BCA student**. The focus is on **software** — computer vision, satellite data processing, drone autonomy, embedded systems, and GNC (Guidance-Navigation-Control) — areas where I can compete effectively against Mechanical/Aerospace graduates.
 
@@ -10,17 +10,17 @@ This repository documents my **3-month structured learning plan** to break into 
 
 ---
 
-## 🎯 The Strategy
+## The Strategy
 
 As a BCA student, my competitive edge is **software engineering**, not structures or propulsion math. This plan builds:
-- ✅ **Computer vision & satellite data pipelines** (Pixxel, SatSure, ideaForge, Asteria)
-- ✅ **Drone autonomy & embedded flight software** (ideaForge, Asteria, Sarla, Bellatrix)
-- ✅ **Real hardware & software projects** for portfolio
-- ✅ **Practical hands-on experience** that interns from competing backgrounds don't have
+- **Computer vision & satellite data pipelines** (Pixxel, SatSure, ideaForge, Asteria)
+- **Drone autonomy & embedded flight software** (ideaForge, Asteria, Sarla, Bellatrix)
+- **Real hardware & software projects** for portfolio
+- **Practical hands-on experience** that interns from competing backgrounds don't have
 
 ---
 
-## 📅 3-Month Roadmap Overview
+## 3-Month Roadmap Overview
 
 ```
 MONTH 1: Foundations (4 weeks)
@@ -47,7 +47,7 @@ MONTH 3: High-Value Projects + Portfolio (4 weeks)
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 Internship-1/
@@ -260,7 +260,7 @@ Internship-1/
 
 ---
 
-#### **🔧 Hardware Project 2: Sensor Payload / Telemetry Board**
+#### **Hardware Project 2: Sensor Payload / Telemetry Board**
 
 **Target:** Bellatrix, Ignis, SatSure
 
@@ -276,19 +276,19 @@ Internship-1/
 
 #### **Week 12: Portfolio + Cold Outreach**
 
-✅ **GitHub:**
+ **GitHub:**
 - Crystal-clear READMEs for all projects
 - Problem statement, architecture diagrams, quantified results
 - Video demos (even 1 minute)
 
-✅ **Resume:**
+**Resume:**
 - One page, project-first format
 - Quantified results ("89% accuracy," "10m² survey in 3min")
 
-✅ **LinkedIn:**
+*LinkedIn:**
 - Post project demos, tag companies
 
-✅ **Cold Email Template:**
+**Cold Email Template:**
 ```
 Hi [Founder/HR],
 
@@ -306,7 +306,7 @@ Thanks,
 
 ---
 
-## 🛠️ Full Tool Stack Reference
+## Full Tool Stack Reference
 
 | Category | Tools |
 |----------|-------|
@@ -323,7 +323,7 @@ Thanks,
 
 ---
 
-## 📚 Core Reading List
+## Core Reading List
 
 - **Introduction to Flight** — John D. Anderson
 - **Orbital Mechanics for Engineering Students** — Howard Curtis
@@ -333,7 +333,7 @@ Thanks,
 
 ---
 
-## 📊 Weekly Time Budget
+## Weekly Time Budget
 
 - **40%** Hands-on coding/building
 - **30%** Structured learning (courses, videos, reading)
@@ -342,7 +342,7 @@ Thanks,
 
 ---
 
-## 📝 Learning Log
+## Learning Log
 
 Track your progress week-by-week:
 
@@ -354,27 +354,27 @@ Track your progress week-by-week:
 
 ---
 
-## 🤝 Key Insights for BCA Students Applying to Aerospace
+##  Key Insights for BCA Students Applying to Aerospace
 
 ### **Your Competitive Advantage:**
-✅ You can ship **production-quality software** faster than most  
-✅ You understand **systems architecture** and code organization  
-✅ You can **glue together** hardware + software + cloud APIs  
+ You can ship **production-quality software** faster than most  
+ You understand **systems architecture** and code organization  
+ You can **glue together** hardware + software + cloud APIs  
 
 ### **What You Won't Compete On (And Don't Need To):**
-❌ Propulsion physics  
-❌ Structural analysis  
-❌ Aerodynamic CFD  
+ Propulsion physics  
+Structural analysis  
+ Aerodynamic CFD  
 
 ### **What Companies Actually Want From You:**
-✅ **Real projects** (GitHub portfolio beats any certificate)  
-✅ **Software that works** (flight controller firmware, GCS, image processing pipelines)  
-✅ **Communication** (explain your choices, document decisions)  
-✅ **Learning velocity** (this 3-month plan proves it)
+ **Real projects** (GitHub portfolio beats any certificate)  
+ **Software that works** (flight controller firmware, GCS, image processing pipelines)  
+ **Communication** (explain your choices, document decisions)  
+ **Learning velocity** (this 3-month plan proves it)
 
 ---
 
-## 🎯 How to Use This Repository
+##  How to Use This Repository
 
 1. **Clone it** and make it your own — add your weekly progress
 2. **Pick Month 2 track early** (don't wait to decide)
@@ -384,7 +384,7 @@ Track your progress week-by-week:
 
 ---
 
-## 📞 Target Companies & Their Focus
+##  Target Companies & Their Focus
 
 | Company | What They Do | Your Angle |
 |---------|-------------|-----------|
@@ -398,22 +398,22 @@ Track your progress week-by-week:
 
 ---
 
-## 🚀 Let's Build This!
+##  Let's Build This!
 
 This isn't just a learning plan — it's a **proof of work**. By week 12, you'll have:
 
-✅ 4 real projects on GitHub  
-✅ Quantified results (model accuracy, flight autonomy metrics)  
-✅ 2+ videos of real outputs  
-✅ Documented learning journey  
-✅ A portfolio that stands out against 500 other applicants  
+ 4 real projects on GitHub  
+ Quantified results (model accuracy, flight autonomy metrics)  
+ 2+ videos of real outputs  
+ Documented learning journey  
+ A portfolio that stands out against 500 other applicants  
 
 **Start Week 1 today.** The best time to plant a tree was 10 years ago. The second best time is now.
 
 ---
 
 **Last Updated:** July 21, 2026  
-**Status:** 🌱 Just starting the journey!  
+**Status:** Just starting the journey!  
 **Next Milestone:** Complete Week 1 + push first 3 Python projects by [DATE]
 
 ---
