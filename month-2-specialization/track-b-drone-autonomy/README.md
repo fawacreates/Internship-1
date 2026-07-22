@@ -1,52 +1,73 @@
-# Month 2 Track B: Drone Autonomy & Embedded Flight Software
+# Month 2 - Track B: Drone Autonomy & Flight Software
 
-## Target Companies
-ideaForge, Asteria, Sarla, Bellatrix
+**Target Companies:** ideaForge, Asteria, Sarla Aviation, Bellatrix
 
-## Learning Path (Weeks 5-8)
+## Week 5: Flight Controller Firmware Basics
 
-### Week 5: Flight Controller Firmware
-- ArduPilot or PX4 architecture
-- Firmware customization basics
-- Flight modes and stabilization
-- **Resources:** [ArduPilot dev docs](https://ardupilot.org/dev/) or [PX4 docs](https://docs.px4.io/)
+**Topics:**
+- ArduPilot architecture
+- PX4 firmware
+- Flight modes
+- Sensor calibration
 
-### Weeks 5-6: Simulation (Gazebo + ROS2)
-- PX4 SITL setup
-- Drone simulation in Gazebo
+**Resources:**
+- [ArduPilot Dev Docs](https://ardupilot.org/dev/)
+- [PX4 Documentation](https://docs.px4.io/)
+
+**Tools:** Pixhawk, SITL (Software-in-the-Loop) simulation
+
+## Week 5-6: Simulation Environments
+
+**Topics:**
+- Gazebo physics simulation
 - ROS2 integration
-- **Resources:** [PX4 Gazebo SITL](https://docs.px4.io/main/en/simulation/gazebo.html)
+- SITL testing
+- Virtual sensors
 
-### Week 6: Path Planning & Obstacle Avoidance
-- Waypoint navigation
-- RRT and A* algorithms
-- Collision avoidance
-- **Resources:** [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
+**Resources:**
+- [PX4 + Gazebo SITL Tutorial](https://docs.px4.io/main/en/simulation/gazebo.html)
 
-### Week 7: State Estimation
-- Kalman Filter fundamentals
+**Tools:** Gazebo, ROS2, PX4
+
+## Week 6: Path Planning & Obstacle Avoidance
+
+**Topics:**
+- A* algorithm
+- RRT (Rapidly-Exploring Random Tree)
+- Potential fields
+- Collision detection
+
+**Resources:**
+- [Python Robotics - PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
+
+**Tools:** Python
+
+## Week 7: State Estimation
+
+**Topics:**
+- Kalman Filter theory
 - Extended Kalman Filter (EKF)
 - Sensor fusion
-- **Resources:** [Kalman Filter for Beginners](https://www.youtube.com/playlist?list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT)
+- Position/velocity estimation
 
-### Week 8: Ground Control Station & Telemetry
-- QGroundControl usage
-- MAVLink protocol mastery
-- Telemetry dashboard development
-- **Tools:** QGroundControl, pymavlink, Python
+**Resources:**
+- [Kalman Filter Playlist (Michel van Biezen)](https://www.youtube.com/playlist?list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT)
 
-## Deliverable
-Simulated drone completing waypoint mission with obstacle avoidance and live telemetry
+**Tools:** Python, MATLAB
 
-## Directory Structure
-```
-track-b-drone-autonomy/
-├── flight-controller-firmware/
-├── gazebo-simulation/
-├── path-planning/
-│   ├── rrt/
-│   ├── astar/
-│   └── obstacle-avoidance/
-├── kalman-filter/
-└── ground-station/
-```
+## Week 8: Ground Control Station
+
+**Topics:**
+- QGroundControl setup
+- Telemetry dashboards
+- Mission planning
+- Real-time monitoring
+
+**Resources:**
+- [QGroundControl Official](http://qgroundcontrol.com/)
+- pymavlink integration
+
+**Tools:** QGroundControl, Python
+
+## Practice Files Location
+See `../../practice-files/month-2-track-b/` for flight controller code and simulation scripts.

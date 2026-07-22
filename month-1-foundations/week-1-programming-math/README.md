@@ -1,31 +1,50 @@
 # Week 1: Programming Core + Math Refresh
 
-## Overview
-Building Python fundamentals and mathematical foundations for aerospace software engineering.
+## Topics
 
-## Topics Covered
+### 1. Python (Data Structures, OOP, File I/O, NumPy)
+**Resource:** [CS50P - Harvard (Free)](https://cs50.harvard.edu/python/)
+**Tools:** Python 3.11+, VS Code
 
-### Python Basics (`python-basics/`)
-- **calculator.py** - Functions and mathematical operations (power calculations)
-- **hello.py** - String manipulation and user input handling
-- **define.py** - Function definitions with default parameters
-- **compare.py** - Conditional logic (if/else)
-- **grade.py** - Multi-branch conditionals (if/elif/else)
-- **parity.py** - Boolean logic and even/odd detection
-- **cat.py** - Loop control (while loops)
-- **house.py** - Pattern matching (Python 3.10+ match/case)
+**Learning Goals:**
+- Master data structures (lists, dicts, sets)
+- Object-oriented programming
+- File I/O operations
+- NumPy for numerical computing
 
-## Learning Resources
-- [CS50P (Harvard)](https://cs50.harvard.edu/python/)
-- Python 3.11+ documentation
-- Practice: Run each script and modify for different inputs
+### 2. C/C++ Fundamentals
+**Resource:** [Learn C the Hard Way](https://learncodethehardway.org/c/) or [CS50x](https://cs50.harvard.edu/x/)
+**Tools:** GCC, VS Code
 
-## Next Steps
-- Master list comprehensions and dictionary operations
-- Explore NumPy for linear algebra basics
-- Study object-oriented programming (OOP) fundamentals
-- Git/GitHub workflow practice
+**Learning Goals:**
+- Pointers and memory management
+- Structs and data organization
+- Why this matters: Critical for embedded systems and flight software
 
-## Status
-✅ All basic scripts completed
-⏳ Moving to linear algebra and OOP
+### 3. Linear Algebra
+**Resource:** [3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
+**Tools:** YouTube
+
+**Learning Goals:**
+- Vectors and matrices
+- Transformations
+- Applications in CV and GNC (Guidance-Navigation-Control)
+
+### 4. Git/GitHub Basics
+**Resource:** [Git Immersion](https://gitimmersion.com/)
+**Tools:** Git, GitHub
+
+**Learning Goals:**
+- Version control workflow
+- Commit, push, pull
+- Branching and merging
+
+## Deliverable
+**Push 3-4 small Python scripts to GitHub:**
+- [ ] Matrix calculator
+- [ ] File parser
+- [ ] NumPy data manipulation script
+- [ ] Simple OOP implementation
+
+## Practice Files Location
+See `../../practice-files/week-1/` for starter code and exercises.
