@@ -1,194 +1,230 @@
-# Week 5: Track A - OpenCV Fundamentals & Track B - Flight Controller Firmware - Progress Log
+# Week 5: Month 2 Specialization - Progress Log
 
-**Date:** August 19, 2026
-**Week Focus:** Month 2 specialization begins - Choose your track!
+**Week:** August 19 – August 25, 2026  
+**Week Focus:** **Track A – Computer Vision & Satellite Data** *or* **Track B – Drone Autonomy & Embedded Flight Software**
 
-## TRACK A: Computer Vision & Satellite Data
-
-### Daily Progress - Track A
-
-#### Monday (Day 1)
-- [ ] Installed OpenCV and dependencies (Python 3.11+)
-- [ ] Completed OpenCV docs section: Image Basics
-- [ ] Wrote code to load, display, save images
-- [ ] Studied image coordinate systems and color spaces
-- **Time:** 2.5 hours
-- **Notes:** 
-
-#### Tuesday (Day 2)
-- [ ] OpenCV: Image filtering and convolution kernels
-- [ ] Implemented custom filters (blur, sharpen, edge detection)
-- [ ] Studied Canny edge detection algorithm
-- [ ] Wrote edge detection script
-- **Time:** 2.5 hours
-- **Notes:** 
-
-#### Wednesday (Day 3)
-- [ ] OpenCV: Morphological operations (erosion, dilation)
-- [ ] Image segmentation techniques
-- [ ] Contour detection and analysis
-- [ ] Applied techniques to synthetic satellite imagery
-- **Time:** 2.5 hours
-- **Notes:** 
-
-#### Thursday (Day 4)
-- [ ] Feature detection and matching (SIFT, SURF, ORB)
-- [ ] Template matching techniques
-- [ ] Wrote image stitching prototype
-- [ ] Studied transformation matrices
-- **Time:** 2.5 hours
-- **Notes:** 
-
-#### Friday (Day 5)
-- [ ] Integration project: Multi-scale feature detection
-- [ ] Tested on real satellite imagery (Copernicus Hub)
-- [ ] Performance optimization and benchmarking
-- [ ] Pushed code to GitHub
-- **Time:** 2 hours
-- **Notes:** 
-
-#### Saturday (Day 6)
-- [ ] PyImageSearch tutorials on advanced OpenCV
-- [ ] Practiced with Kaggle satellite dataset
-- [ ] Experimented with different filter combinations
-- **Time:** 2 hours
-- **Notes:** 
-
-#### Sunday (Day 7)
-- [ ] Weekly reflection and planning
-- [ ] Identify best performing techniques
-- [ ] Prepare for Week 6 deep learning
-- **Time:** 1 hour
-- **Notes:** 
-
-### Key Learnings - Track A
-
-#### OpenCV Concepts Mastered
-- ✅ Image loading, saving, and display
-- ✅ Color spaces (RGB, HSV, Grayscale)
-- ✅ Filtering and convolution kernels
-- ✅ Edge detection (Canny, Sobel)
-- ✅ Morphological operations
-- ✅ Contour detection and analysis
-- ✅ Feature detection (SIFT, ORB)
-- ✅ Template matching
-- ⏳ Real-time video processing
+> **Choose ONE track and complete its objectives.**
 
 ---
 
-## TRACK B: Drone Autonomy & Flight Controller Firmware
+# 🚀 Track A – Computer Vision & Satellite Data
 
-### Daily Progress - Track B
+## Weekly Progress
 
-#### Monday (Day 1)
-- [ ] Installed ArduPilot development environment
-- [ ] Reviewed ArduPilot firmware architecture
-- [ ] Studied flight controller hardware (Pixhawk)
-- [ ] Set up SITL (Software In The Loop) simulator
-- **Time:** 2.5 hours
-- **Notes:** 
+### OpenCV Fundamentals
+- [ ] Installed OpenCV
+- [ ] Learned image loading & saving
+- [ ] Studied color spaces (RGB, HSV, Grayscale)
+- [ ] Practiced image transformations
+- [ ] Learned filtering techniques
+- [ ] Applied convolution kernels
+- **Time:** ____ hours
+- **Notes:**
 
-#### Tuesday (Day 2)
-- [ ] Explored ArduPilot source code structure
-- [ ] Compiled firmware from source
-- [ ] Understood control loop timing and priorities
-- [ ] Studied attitude controller implementation
-- **Time:** 2.5 hours
-- **Notes:** 
+### Image Processing
+- [ ] Edge Detection (Canny, Sobel)
+- [ ] Morphological Operations
+- [ ] Image Segmentation
+- [ ] Contour Detection
+- [ ] Image Thresholding
+- **Time:** ____ hours
+- **Notes:**
 
-#### Wednesday (Day 3)
-- [ ] Reviewed PX4 firmware alternative
-- [ ] Compared ArduPilot vs PX4 architecture
-- [ ] Studied sensor integration in flight stack
-- [ ] Reviewed IMU calibration procedures
-- **Time:** 2.5 hours
-- **Notes:** 
+### Feature Detection
+- [ ] SIFT
+- [ ] ORB
+- [ ] Feature Matching
+- [ ] Template Matching
+- [ ] Image Stitching
+- **Time:** ____ hours
+- **Notes:**
 
-#### Thursday (Day 4)
-- [ ] Set up Gazebo simulator with drone model
-- [ ] Integrated PX4 SITL with Gazebo
-- [ ] Tested basic flight control commands
-- [ ] Experimented with waypoint missions
-- **Time:** 2.5 hours
-- **Notes:** 
+### Satellite Imagery
+- [ ] Downloaded sample satellite imagery
+- [ ] Applied OpenCV filters
+- [ ] Tested feature detection
+- [ ] Compared preprocessing methods
+- **Time:** ____ hours
+- **Notes:**
 
-#### Friday (Day 5)
-- [ ] Built pymavlink ground station client
-- [ ] Tested telemetry streaming from simulation
-- [ ] Implemented basic flight mode switching
-- [ ] Pushed SITL setup scripts to GitHub
-- **Time:** 2 hours
-- **Notes:** 
-
-#### Saturday (Day 6)
-- [ ] Debugged SITL communication issues
-- [ ] Tested multi-vehicle simulation
-- [ ] Reviewed thrust vectoring and motor mixing
-- **Time:** 2 hours
-- **Notes:** 
-
-#### Sunday (Day 7)
-- [ ] Weekly reflection and system verification
-- [ ] Document firmware architecture learnings
-- [ ] Prepare for Week 6 simulation integration
-- **Time:** 1 hour
-- **Notes:** 
-
-### Key Learnings - Track B
-
-#### Flight Controller Firmware Mastered
-- ✅ ArduPilot and PX4 architecture overview
-- ✅ Control loop timing and prioritization
-- ✅ Attitude controller fundamentals
-- ✅ Sensor integration and calibration
-- ✅ Flight mode implementation
-- ✅ MAVLink command execution
-- ✅ SITL simulation setup
-- ⏳ Custom firmware modifications
+### Documentation & GitHub
+- [ ] Updated learning log
+- [ ] Uploaded OpenCV projects
+- [ ] Organized project repository
+- [ ] Planned Week 6
+- **Time:** ____ hours
+- **Notes:**
 
 ---
 
-## Time Allocation (Both Tracks)
+## Key Learnings (Track A)
+
+### OpenCV Concepts Mastered
+- [ ] Image I/O
+- [ ] Color Spaces
+- [ ] Image Filtering
+- [ ] Convolution
+- [ ] Edge Detection
+- [ ] Morphological Operations
+- [ ] Contours
+- [ ] Feature Detection
+- [ ] Template Matching
+
+### Challenges Faced
+-
+
+### Resources Used
+- OpenCV Official Documentation
+- PyImageSearch
+- Kaggle Satellite Datasets
+- Copernicus Hub
+- Python
+- Git & GitHub
+
+---
+
+## Time Allocation (Track A)
+
+```text
+OpenCV:              8 hours
+Image Processing:    5 hours
+Satellite Imagery:   4 hours
+Documentation:       2 hours
+-------------------------------
+Total:              19 hours
 ```
-Hands-on coding:     40% (8 hours)
-Structured learning: 30% (6 hours)
-Project work:        20% (4 hours)
-Documentation:       10% (2 hours)
-Total:              20 hours
+
+## Week 5 Deliverables (Track A)
+
+- [ ] 10+ OpenCV Programs
+- [ ] Feature Detection Comparison
+- [ ] Satellite Image Processing Examples
+- [ ] GitHub Updated
+
+---
+
+# 🚁 Track B – Drone Autonomy & Embedded Flight Software
+
+## Weekly Progress
+
+### Flight Controller Firmware
+- [ ] Installed ArduPilot
+- [ ] Installed PX4
+- [ ] Studied firmware architecture
+- [ ] Learned control loop structure
+- [ ] Reviewed attitude controller
+- **Time:** ____ hours
+- **Notes:**
+
+### SITL Simulation
+- [ ] Installed SITL
+- [ ] Installed Gazebo
+- [ ] Connected PX4 with Gazebo
+- [ ] Tested drone simulation
+- [ ] Ran waypoint missions
+- **Time:** ____ hours
+- **Notes:**
+
+### MAVLink & Ground Station
+- [ ] Installed pymavlink
+- [ ] Learned MAVLink messages
+- [ ] Built telemetry parser
+- [ ] Tested flight mode switching
+- **Time:** ____ hours
+- **Notes:**
+
+### Flight Software
+- [ ] Sensor Calibration
+- [ ] Motor Mixing
+- [ ] Thrust Control
+- [ ] Flight Modes
+- [ ] Firmware Structure
+- **Time:** ____ hours
+- **Notes:**
+
+### Documentation & GitHub
+- [ ] Updated learning log
+- [ ] Uploaded SITL projects
+- [ ] Organized repository
+- [ ] Planned Week 6
+- **Time:** ____ hours
+- **Notes:**
+
+---
+
+## Key Learnings (Track B)
+
+### Flight Software Concepts Mastered
+- [ ] ArduPilot
+- [ ] PX4
+- [ ] SITL
+- [ ] Gazebo
+- [ ] MAVLink
+- [ ] Flight Modes
+- [ ] Telemetry
+- [ ] Sensor Calibration
+
+### Challenges Faced
+-
+
+### Resources Used
+- ArduPilot Documentation
+- PX4 Documentation
+- Gazebo
+- MAVLink Docs
+- pymavlink
+- Git & GitHub
+
+---
+
+## Time Allocation (Track B)
+
+```text
+Flight Controllers:  6 hours
+SITL & Gazebo:       7 hours
+MAVLink:             4 hours
+Documentation:       2 hours
+-------------------------------
+Total:              19 hours
 ```
 
-## Week 5 Deliverables (Choose One Track)
+## Week 5 Deliverables (Track B)
 
-### Track A Deliverables
-- ✅ 10+ OpenCV scripts (filters, edge detection, segmentation, feature detection)
-- ✅ Feature detection comparison study
-- ✅ Tested on satellite imagery
-- ✅ Performance benchmarks
-- ✅ Pushed to GitHub
+- [ ] ArduPilot/PX4 Setup
+- [ ] SITL Simulation Running
+- [ ] Basic Ground Station
+- [ ] Waypoint Mission
+- [ ] GitHub Updated
 
-### Track B Deliverables
-- ✅ ArduPilot/PX4 development environment configured
-- ✅ SITL simulator running with Gazebo
-- ✅ Basic pymavlink ground station
-- ✅ Waypoint mission testing scripts
-- ✅ Pushed to GitHub
+---
 
 ## Next Week (Week 6) Preview
 
-**Track A:** Deep Learning for Vision (CNNs, Transfer Learning)
-**Track B:** Advanced Simulation & ROS2 Integration
+### Track A
+- Deep Learning for Vision
+- CNNs
+- Transfer Learning
+- Image Classification
+
+**Deliverable:** Image Classification Model
+
+### Track B
+- ROS2 + Gazebo Integration
+- Drone Simulation
+- Advanced Autonomy
+
+**Deliverable:** ROS2-Controlled Drone Simulation
+
+---
 
 ## Reflection
 
 **What went well:**
-- Clear technical foundation from Month 1
-- Good progress in chosen specialization
-- Hands-on work directly applicable
+-
 
 **What to improve:**
-- Could use more real-world data practice
-- Simulation took longer than expected for Track B
+-
 
-**Confidence Level:** 7/10 in chosen track
+**Confidence Level:** ____ /10
 
-**Ready for Week 6?** YES ✅
+**Ready for Week 6?** YES / NO
