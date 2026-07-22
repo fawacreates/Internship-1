@@ -6,7 +6,7 @@
 ## Weekly Progress
 
 ### Python
-- [ ] Completed CS50P Lectures 0–2
+- [x] Completed CS50P Lectures 0–2
 - [ ] Learned Python data structures
 - [ ] Studied OOP fundamentals
 - [ ] Practiced file I/O
@@ -23,7 +23,7 @@
 - **Notes:**
 
 ### Linear Algebra
-- [ ] Studied vectors
+- [x] Studied vectors
 - [ ] Studied matrices
 - [ ] Learned transformations
 - **Time:** ____ hours
@@ -37,12 +37,12 @@
 - **Notes:**
 
 ### Mini Projects
-- [ ] hello.py
-- [ ] calculator.py
-- [ ] compare.py
-- [ ] grade.py
-- [ ] cat.py
-- [ ] parity.py
+- [x] hello.py
+- [x] calculator.py
+- [x] compare.py
+- [x] grade.py
+- [x] cat.py
+- [x] parity.py
 - [ ] matrix_calculator.py *(optional)*
 - [ ] file_parser.py *(optional)*
 - **Time:** ____ hours
@@ -58,9 +58,9 @@
 ## Key Learnings
 
 ### Python Concepts Mastered
-- [ ] Variables and data types
-- [ ] Functions and parameters
-- [ ] If/elif/else statements
+- [x] Variables and data types
+- [x] Functions and parameters
+- [x] If/elif/else statements
 - [ ] While and for loops
 - [ ] Boolean logic
 - [ ] File I/O
@@ -76,7 +76,7 @@
 - [ ] Structs
 
 ### Linear Algebra Concepts
-- [ ] Vectors
+- [x] Vectors
 - [ ] Matrices
 - [ ] Matrix operations
 - [ ] Transformations
@@ -106,10 +106,10 @@ Total:              25 hours
 ```
 
 ## Week 1 Deliverables
-- [ ] Completed CS50P Lectures 0–2
+- [x] Completed CS50P Lectures 0–2
 - [ ] Learned C fundamentals
 - [ ] Completed Linear Algebra basics
-- [ ] GitHub account set up
+- [x] GitHub account set up
 - [ ] 3–4 Python scripts pushed
 - [ ] Learning log completed
 
