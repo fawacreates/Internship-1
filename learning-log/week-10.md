@@ -1,103 +1,157 @@
 # Week 10: Month 3 - Projects Polish & Hardware Assembly - Progress Log
 
-**Date:** September 23, 2026
-**Week Focus:** Finalize software projects, begin hardware assembly
+**Week:** September 23 – September 29, 2026  
+**Week Focus:** Production Deployment, Hardware Assembly & System Optimization
 
-## Daily Progress
+---
 
-### Monday (Day 1)
-- [ ] Deploy Satellite Pipeline to AWS Lambda
-- [ ] Configure RDS database
-- [ ] Set up S3 for satellite imagery storage
-- [ ] CI/CD pipeline with GitHub Actions
-- **Time:** 2.5 hours
-- **Notes:** 
+## Weekly Progress
 
-### Tuesday (Day 2)
-- [ ] Satellite Pipeline testing on cloud infrastructure
-- [ ] Performance monitoring and logging
-- [ ] API rate limiting and authentication
-- [ ] Domain setup and SSL certificates
-- **Time:** 2.5 hours
-- **Notes:** 
+### Software Project Deployment
+- [ ] Deployed Satellite Pipeline
+- [ ] Configured Cloud Database
+- [ ] Configured Object Storage
+- [ ] Set up CI/CD Pipeline
+- [ ] Implemented Authentication
+- [ ] Added API Rate Limiting
+- [ ] Enabled Logging & Monitoring
+- [ ] Tested Production Deployment
+- **Time:** ____ hours
+- **Notes:**
 
-### Wednesday (Day 3)
-- [ ] Hardware Project 1: Quadcopter assembly begins
-- [ ] Frame kit assembly (DJI F450 or similar)
-- [ ] Motor and ESC installation
-- [ ] Battery connector soldering
-- **Time:** 2.5 hours
-- **Notes:** 
+### Drone Simulator Optimization
+- [ ] Improved simulator performance
+- [ ] Reduced latency
+- [ ] Optimized navigation algorithms
+- [ ] Benchmarked mission execution
+- [ ] Fixed remaining bugs
+- [ ] Completed production testing
+- **Time:** ____ hours
+- **Notes:**
 
-### Thursday (Day 4)
-- [ ] Pixhawk flight controller setup
-- [ ] Compass, GPS, and barometer calibration
-- [ ] Motor/ESC calibration
-- [ ] First bench test (no props)
-- **Time:** 2.5 hours
-- **Notes:** 
+### Hardware Project – Quadcopter
+- [ ] Assembled frame
+- [ ] Installed motors
+- [ ] Installed ESCs
+- [ ] Connected power distribution
+- [ ] Installed Pixhawk flight controller
+- [ ] Installed GPS module
+- [ ] Installed Compass
+- [ ] Installed Telemetry Module
+- [ ] Performed ESC calibration
+- [ ] Performed sensor calibration
+- [ ] Completed bench testing
+- **Time:** ____ hours
+- **Notes:**
 
-### Friday (Day 5)
-- [ ] Hardware Project 2: Sensor Payload PCB design
-- [ ] KiCad schematic completion
-- [ ] PCB layout and routing
-- [ ] Gerber file generation for manufacturing
-- **Time:** 2 hours
-- **Notes:** 
+### Hardware Project – Sensor Payload PCB
+- [ ] Designed schematic
+- [ ] Completed PCB layout
+- [ ] Routed traces
+- [ ] Performed design rule checks
+- [ ] Generated Gerber files
+- [ ] Prepared manufacturing files
+- **Time:** ____ hours
+- **Notes:**
 
-### Saturday (Day 6)
-- [ ] Drone simulator final testing and optimization
-- [ ] Create performance benchmark report
-- [ ] Video recording for portfolio
-- **Time:** 2 hours
-- **Notes:** 
+### Documentation & Portfolio
+- [ ] Updated project README
+- [ ] Created deployment guide
+- [ ] Added architecture diagrams
+- [ ] Recorded demo videos
+- [ ] Updated GitHub repositories
+- [ ] Planned Week 11
+- **Time:** ____ hours
+- **Notes:**
 
-### Sunday (Day 7)
-- [ ] Weekly reflection and status update
-- [ ] Plan for Week 11 - final testing and flying
-- [ ] Portfolio compilation begins
-- **Time:** 1 hour
-- **Notes:** 
+---
 
-## Key Developments This Week
+## Key Learnings
 
-### Software Projects Status
-- ✅ Satellite Pipeline deployed to AWS
-- ✅ API fully functional and tested
-- ✅ Drone Simulator optimization complete
-- ✅ All software projects feature-complete
+### Cloud Deployment
+- [ ] Cloud Infrastructure
+- [ ] CI/CD Pipelines
+- [ ] Authentication
+- [ ] Logging
+- [ ] Monitoring
+- [ ] API Deployment
 
-### Hardware Projects Status
-- ✅ Quadcopter assembly: 70% complete
-- ✅ Flight controller configured and calibrated
-- ✅ Sensor Payload PCB design complete
-- ⏳ PCB manufacturing ordered
-- ⏳ First flight test (Week 11)
+### Hardware Development
+- [ ] Drone Assembly
+- [ ] Flight Controller Setup
+- [ ] Sensor Calibration
+- [ ] PCB Design
+- [ ] Hardware Testing
 
-## Time Allocation This Week
+### Engineering Workflow
+- [ ] System Integration
+- [ ] Performance Optimization
+- [ ] Deployment
+- [ ] Documentation
+- [ ] Debugging
+
+### Challenges Faced
+-
+
+### Resources Used
+- AWS Documentation
+- GitHub Actions
+- FastAPI Documentation
+- KiCad Documentation
+- Pixhawk Documentation
+- Git & GitHub
+
+---
+
+## Time Allocation
+
+```text
+Software Deployment:     6 hours
+Hardware Assembly:       7 hours
+PCB Design:              3 hours
+Documentation:           3 hours
+----------------------------------
+Total:                  19 hours
 ```
-Hands-on coding:     40% (8 hours)
-Structured learning: 10% (2 hours)
-Project work:        40% (8 hours)
-Documentation:       10% (2 hours)
-Total:              20 hours
-```
+
+## Week 10 Deliverables
+
+- [ ] Production Satellite Pipeline
+- [ ] Production Drone Simulator
+- [ ] CI/CD Pipeline
+- [ ] Quadcopter (Assembly Complete)
+- [ ] Sensor Payload PCB Design
+- [ ] Demo Videos
+- [ ] GitHub Updated
+
+---
 
 ## Next Week (Week 11) Preview
 
-**Focus:** Final testing, flight trials, portfolio video creation
+### Final Testing
+- Hardware Validation
+- Flight Controller Tuning
+- Flight Trials
+- System Stress Testing
+
+### Portfolio
+- Portfolio Website Updates
+- Resume Improvements
+- Project Showcase
+- Demo Videos
+
+**Deliverable:** Flight-Ready Drone & Complete Project Portfolio
+
+---
 
 ## Reflection
 
 **What went well:**
-- Cloud deployment smooth and fast
-- Hardware assembly progressing well
-- Software projects production-ready
+-
 
 **What to improve:**
-- PCB manufacturing timeline tight
-- Need more test flights
+-
 
-**Confidence Level:** 8/10
+**Confidence Level:** ____ /10
 
-**Projects on Schedule?** YES ✅
+**Ready for Week 11?** YES / NO
