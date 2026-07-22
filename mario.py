@@ -1,6 +1,12 @@
 def main():
-    column_height(3)
+    print_square(3)
 
-def column_height(height):
-    for i in range (height):
-        print("#")
+def print_square(size):
+    for i in range(size):
+        print_row(size)
+
+def print_row(width):
+    print("#"* width)
+
+main()
+
