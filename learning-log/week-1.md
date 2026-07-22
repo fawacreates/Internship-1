@@ -6,16 +6,16 @@
 ## Daily Progress
 
 ### Monday (Day 1)
-- [ ] Completed CS50P Lecture 0 (Functions & Variables)
-- [ ] Wrote hello.py
-- [ ] Wrote calculator.py
+- [x] Completed CS50P Lecture 0 (Functions & Variables)
+- [x] Wrote hello.py
+- [x] Wrote calculator.py
 - **Time:** 2 hours
 - **Notes:** 
 
 ### Tuesday (Day 2)
-- [ ] Completed CS50P Lecture 1 (Conditionals)
-- [ ] Wrote compare.py
-- [ ] Wrote grade.py
+- [x] Completed CS50P Lecture 1 (Conditionals)
+- [x] Wrote compare.py
+- [x] Wrote grade.py
 - **Time:** 2 hours
 - **Notes:** 
 
@@ -55,13 +55,13 @@
 ## Key Learnings
 
 ### Python Concepts Mastered
-- ✅ Variables and data types
-- ✅ Functions and parameters
-- ✅ If/elif/else conditionals
-- ✅ While and for loops
-- ✅ Boolean logic
-- ✅ Match/case pattern matching (Python 3.10+)
-- ⏳ List comprehensions (in progress)
+-  Variables and data types
+- Functions and parameters
+-  If/elif/else conditionals
+-  While and for loops
+-  Boolean logic
+-  Match/case pattern matching (Python 3.10+)
+-  List comprehensions (in progress)
 
 ### Challenges Faced
 - 
@@ -81,9 +81,9 @@ Total:              20 hours
 ```
 
 ## Week 1 Deliverables
-- ✅ 8 Python scripts (calculator, hello, define, compare, grade, parity, cat, house)
-- ✅ Pushed to GitHub
-- ✅ Basic learning log started
+-  8 Python scripts (calculator, hello, define, compare, grade, parity, cat, house)
+-  Pushed to GitHub
+-  Basic learning log started
 
 ## Next Week (Week 2) Preview
 
@@ -108,4 +108,4 @@ Total:              20 hours
 
 **Confidence Level:** 8/10 on Python basics
 
-**Ready for Week 2?** YES ✅
+**Ready for Week 2?** YES 
