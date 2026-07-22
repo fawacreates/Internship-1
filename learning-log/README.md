@@ -1,89 +1,156 @@
 # Learning Log
 
-Track your weekly progress through the 3-month internship preparation journey.
+Track your weekly progress throughout your internship preparation journey.
 
 ## Purpose
+
 This directory documents:
-- Daily learning activities
-- Challenges and solutions
-- Code written and projects started
-- Key insights and breakthroughs
-- Time tracking and efficiency notes
 
-## Weekly Format
-
-Each week has a markdown file with:
-- Daily progress checklist
-- Key learnings and concepts
+- Weekly learning progress
+- Concepts learned and mastered
+- Challenges faced and solutions found
+- Projects, assignments, and GitHub commits
 - Resources used
-- Time allocation tracking
-- Next week preview
-- Personal reflection
+- Time management and productivity
+- Personal reflections and future goals
 
-## Progress Tracking
+---
+
+## Weekly Progress
 
 ### Month 1: Foundations
-- [Week 1: Programming + Math](./week-1.md) 
-- Week 2: Linux + Aerospace (to follow)
-- Week 3: Electronics + Embedded (to follow)
-- Week 4: Control Systems + Robotics (to follow)
+- [x] Week 1: Programming Core + Math Refresh
+- [x] Week 2: Linux, Command Line & Aerospace Fundamentals
+- [x] Week 3: Electronics & Embedded Systems
+- [x] Week 4: Control Systems & Robotics Software
 
 ### Month 2: Specialization
-- Week 5: Track A or B (to follow)
-- Week 6: Deep specialization (to follow)
-- Week 7: Applied projects (to follow)
-- Week 8: Advanced topics (to follow)
+- [x] Week 5: OpenCV / Flight Controller Firmware
+- [x] Week 6: Deep Learning / Gazebo Simulation
+- [x] Week 7: Remote Sensing / Path Planning
+- [x] Week 8: Capstone Project & Integration
 
-### Month 3: Capstone
-- Week 9: Project development (to follow)
-- Week 10: Project development (to follow)
-- Week 11: Project polish (to follow)
-- Week 12: Portfolio + Outreach (to follow)
+### Month 3: Portfolio & Career
+- [x] Week 9: Project Development Begins
+- [x] Week 10: Project Polish & Hardware Assembly
+- [x] Week 11: Final Testing & Portfolio Showcase
+- [x] Week 12: Portfolio Launch & Career Outreach
 
-## Template
+---
 
-Use this template for new weeks:
+## Weekly Template
 
 ```markdown
 # Week X: [Topic] - Progress Log
 
-**Date:** [Start Date]
-**Week Focus:** [Main topics]
+**Week:** [Date Range]
+**Week Focus:** [Primary Goals]
 
-## Daily Progress
+---
 
-### Monday (Day 1)
-- [ ] Activity 1
-- [ ] Activity 2
-- **Time:** X hours
-- **Notes:** 
+## Weekly Progress
 
-[... repeat for each day ...]
+### Learning
+- [ ] Topic 1
+- [ ] Topic 2
+- [ ] Topic 3
+- **Time:** ____ hours
+- **Notes:**
+
+### Practical Work
+- [ ] Exercise 1
+- [ ] Project Work
+- [ ] GitHub Push
+- **Time:** ____ hours
+- **Notes:**
+
+### Documentation
+- [ ] Notes Updated
+- [ ] README Updated
+- [ ] Reflection Written
+- **Time:** ____ hours
+- **Notes:**
+
+---
 
 ## Key Learnings
 
 ### Concepts Mastered
-- Topic 1
-- Topic 2
-- Topic 3 (in progress)
+- [ ] Concept 1
+- [ ] Concept 2
+- [ ] Concept 3
 
 ### Challenges Faced
-- Challenge 1
-- Challenge 2
+-
+
+### Resources Used
+-
+
+---
+
+## Time Allocation
+
+```text
+Learning:             __ hours
+Coding:               __ hours
+Projects:             __ hours
+Documentation:        __ hours
+--------------------------------
+Total:               __ hours
+```
+
+## Week Deliverables
+
+- [ ] Deliverable 1
+- [ ] Deliverable 2
+- [ ] GitHub Updated
+
+---
+
+## Next Week Preview
+
+**Focus:**
+- Topic 1
+- Topic 2
+- Topic 3
+
+**Deliverable:** _______________________
+
+---
 
 ## Reflection
 
 **What went well:**
+-
+
 **What to improve:**
-**Confidence Level:** X/10
-**Ready for next week?** YES/NO
+-
+
+**Confidence Level:** ____ /10
+
+**Ready for next week?** YES / NO
 ```
 
-## Tips for Effective Learning Log
+---
 
-1. **Be specific** - Note which resources helped most
-2. **Track time** - Understand your learning pace
-3. **Honest reflection** - Note challenges, not just wins
-4. **Link code** - Reference commits or GitHub links
-5. **Weekly review** - Spend 30 min on Sunday reflecting
-6. **Future reference** - This becomes your internship interview story
+## Best Practices
+
+1. Update your log immediately after each study session.
+2. Push your code to GitHub regularly and reference important commits.
+3. Record both successes and mistakes—they become valuable interview stories.
+4. Include screenshots, diagrams, or terminal outputs whenever useful.
+5. Review your progress every Sunday and set goals for the following week.
+6. At the end of each month, summarize what you learned, the projects you completed, and the skills you gained.
+
+---
+
+## Why Keep a Learning Log?
+
+A detailed learning log helps you:
+
+- Measure consistent progress over time.
+- Identify strengths and knowledge gaps.
+- Improve time management.
+- Build material for resumes and technical interviews.
+- Demonstrate discipline and continuous learning.
+- Create a documented journey that showcases your growth as an engineer.
