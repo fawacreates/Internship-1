@@ -1,2 +1,6 @@
-for i in range(3):
-    print("#")
+def main():
+    column_height(3)
+
+def column_height(height):
+    for i in range (height):
+        print("#")
