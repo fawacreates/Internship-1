@@ -1,130 +1,153 @@
 # Week 3: Electronics + Embedded Systems Intro - Progress Log
 
-**Date:** August 5, 2026
-**Week Focus:** Basic electronics, Arduino programming, sensors, serial protocols
+**Week:** August 5 – August 11, 2026  
+**Week Focus:** Electronics, Arduino, Sensors & Embedded Systems
 
-## Daily Progress
+## Weekly Progress
 
-### Monday (Day 1)
-- [ ] Studied basic circuit theory (voltage, current, resistance, Ohm's law)
-- [ ] Learned about capacitors, inductors, diodes
-- [ ] Set up Arduino IDE on Ubuntu
-- [ ] Wrote first Arduino sketch (LED blink)
-- **Time:** 2.5 hours
-- **Notes:** 
+### Electronics
+- [ ] Studied voltage, current & resistance
+- [ ] Learned Ohm's Law
+- [ ] Studied series & parallel circuits
+- [ ] Learned capacitors, inductors & diodes
+- [ ] Studied power supplies & voltage regulation
+- [ ] Practiced circuit building on a breadboard
+- **Time:** ____ hours
+- **Notes:**
 
-### Tuesday (Day 2)
-- [ ] Arduino digital I/O fundamentals
-- [ ] Studied datasheets (MPU6050 IMU, NEO-6M GPS, BMP280 barometer)
-- [ ] Built LED + button circuit on breadboard
-- [ ] Wrote Arduino code for button-controlled LED
-- **Time:** 2.5 hours
-- **Notes:** 
+### Arduino Programming
+- [ ] Installed Arduino IDE
+- [ ] Learned Arduino sketch structure
+- [ ] Practiced Digital I/O
+- [ ] Practiced Analog I/O & PWM
+- [ ] Built LED and Button projects
+- [ ] Learned debugging techniques
+- **Time:** ____ hours
+- **Notes:**
 
-### Wednesday (Day 3)
-- [ ] Arduino analog input and PWM output
-- [ ] Learned about pull-up/pull-down resistors
-- [ ] Studied I2C and SPI communication protocols
-- [ ] Wrote Arduino I2C scanner sketch
-- **Time:** 2.5 hours
-- **Notes:** 
+### Sensors & Embedded Systems
+- [ ] Studied MPU6050 IMU
+- [ ] Studied NEO-6M GPS
+- [ ] Studied BMP280 Barometer
+- [ ] Read sensor datasheets
+- [ ] Integrated sensors with Arduino
+- [ ] Logged sensor data
+- **Time:** ____ hours
+- **Notes:**
 
-### Thursday (Day 4)
-- [ ] UART/Serial communication principles
-- [ ] Connected Arduino to computer via USB serial
-- [ ] Tested serial communication with Python script
-- [ ] Read MPU6050 datasheet in depth
-- **Time:** 2.5 hours
-- **Notes:** 
+### Communication Protocols
+- [ ] Learned UART
+- [ ] Learned I2C
+- [ ] Learned SPI
+- [ ] Built I2C Scanner
+- [ ] Tested Serial Communication
+- [ ] Connected Arduino with Python
+- **Time:** ____ hours
+- **Notes:**
 
-### Friday (Day 5)
-- [ ] Integrated multiple sensors (IMU, GPS, barometer simulation)
-- [ ] Built Arduino project: Read IMU + log to serial
-- [ ] Tested data transmission reliability
-- [ ] Pushed Arduino sketches to GitHub
-- **Time:** 2 hours
-- **Notes:** 
+### Documentation & GitHub
+- [ ] Updated learning log
+- [ ] Created electronics notes
+- [ ] Uploaded Arduino sketches to GitHub
+- [ ] Planned Week 4
+- **Time:** ____ hours
+- **Notes:**
 
-### Saturday (Day 6)
-- [ ] Reviewed Arduino debugging techniques
-- [ ] Studied power supply and voltage regulation
-- [ ] Practiced circuit design on breadboard
-- **Time:** 2 hours
-- **Notes:** 
-
-### Sunday (Day 7)
-- [ ] Weekly reflection and testing
-- [ ] Document sensor integration learnings
-- [ ] Prepare for Week 4
-- **Time:** 1 hour
-- **Notes:** 
+---
 
 ## Key Learnings
 
 ### Electronics Concepts Mastered
-- ✅ Ohm's law and basic circuit analysis
-- ✅ Series and parallel circuits
-- ✅ Capacitors and inductors
-- ✅ Diodes and LEDs
-- ✅ Voltage regulation and power supplies
-- ⏳ Transistors and amplifiers (intro only)
+- [ ] Voltage
+- [ ] Current
+- [ ] Resistance
+- [ ] Ohm's Law
+- [ ] Series & Parallel Circuits
+- [ ] Capacitors
+- [ ] Inductors
+- [ ] Diodes
+- [ ] Voltage Regulation
 
-### Arduino & Embedded Systems Mastered
-- ✅ Arduino IDE and sketch structure
-- ✅ Digital I/O (digitalWrite, digitalRead)
-- ✅ Analog I/O (analogRead, analogWrite/PWM)
-- ✅ Serial communication (Serial.print, Serial.read)
-- ✅ I2C protocol and sensor communication
-- ✅ Sensor data interpretation
-- ⏳ Real-time constraints and timing
+### Arduino Concepts Mastered
+- [ ] Arduino IDE
+- [ ] Sketch Structure
+- [ ] Digital I/O
+- [ ] Analog I/O
+- [ ] PWM
+- [ ] Serial Communication
+- [ ] Debugging
+
+### Embedded Systems Concepts Mastered
+- [ ] Sensor Datasheets
+- [ ] IMU
+- [ ] GPS
+- [ ] Barometer
+- [ ] Sensor Integration
+- [ ] Data Logging
+
+### Communication Protocols
+- [ ] UART
+- [ ] I2C
+- [ ] SPI
 
 ### Challenges Faced
-- Decoding sensor datasheets initially confusing
-- I2C address conflicts when multiple sensors connected
-- Serial baud rate timing issues
+-
 
 ### Resources Used
-- AllAboutCircuits.com tutorials
-- Arduino official documentation
-- Sensor datasheets (MPU6050, NEO-6M, BMP280)
-- SparkFun tutorials and guides
+- AllAboutCircuits
+- Arduino Official Documentation
+- SparkFun Tutorials
+- MPU6050 Datasheet
+- NEO-6M GPS Datasheet
+- BMP280 Datasheet
+- VS Code
+- Git & GitHub
+
+---
 
 ## Time Allocation This Week
-```
-Hands-on coding:     45% (9 hours)
-Structured learning: 25% (5 hours)
-Project work:        20% (4 hours)
-Documentation:       10% (2 hours)
-Total:              20 hours
+
+```text
+Electronics:          5 hours
+Arduino Programming:  6 hours
+Sensors:              5 hours
+Communication:        3 hours
+Documentation:        2 hours
+-------------------------------
+Total:               21 hours
 ```
 
 ## Week 3 Deliverables
-- ✅ 8+ Arduino sketches (LED control, button, PWM, I2C, sensor reading, serial logging)
-- ✅ Electronics notes and circuit diagrams
-- ✅ Functional Arduino project: Multi-sensor data logger
-- ✅ Pushed to GitHub
+- [ ] 8+ Arduino sketches completed
+- [ ] Electronics notes completed
+- [ ] Sensor datasheet summaries
+- [ ] Multi-sensor data logger project
+- [ ] GitHub updated
 
 ## Next Week (Week 4) Preview
 
-**Topics:** Control Systems, PID, ROS2, MAVLink
-- Control systems theory and PID controllers
-- PID simulation in Python
-- ROS2 installation and basic pub/sub
-- MAVLink protocol basics
-- **Deliverable:** PID-controlled virtual pendulum + basic ROS2 node
+**Topics:** Control Systems, ROS2 & MAVLink
+
+- PID Controllers
+- Feedback Control Systems
+- ROS2 Basics
+- Publisher & Subscriber Nodes
+- MAVLink Protocol
+- Python PID Simulation
+
+**Deliverable:** PID Simulation + Basic ROS2 Publisher/Subscriber Node
+
+---
 
 ## Reflection
 
 **What went well:**
-- Practical hands-on experience very helpful
-- Sensor integration working smoothly by end of week
-- Good progress on embedded systems thinking
+-
 
 **What to improve:**
-- Should have used logic analyzer for debugging
-- Datasheets take longer to understand - need more practice
-- Time management on hardware debugging
+-
 
-**Confidence Level:** 8/10 on Arduino, 7/10 on electronics
+**Confidence Level:** ____ /10
 
-**Ready for Week 4?** YES ✅
+**Ready for Week 4?** YES / NO
+```
