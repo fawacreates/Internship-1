@@ -23,7 +23,7 @@ Each week has a markdown file with:
 ## Progress Tracking
 
 ### Month 1: Foundations
-- [Week 1: Programming + Math](./week-1.md) ✅
+- [Week 1: Programming + Math](./week-1.md) 
 - Week 2: Linux + Aerospace (to follow)
 - Week 3: Electronics + Embedded (to follow)
 - Week 4: Control Systems + Robotics (to follow)
@@ -63,9 +63,9 @@ Use this template for new weeks:
 ## Key Learnings
 
 ### Concepts Mastered
-- ✅ Topic 1
-- ✅ Topic 2
-- ⏳ Topic 3 (in progress)
+- Topic 1
+- Topic 2
+- Topic 3 (in progress)
 
 ### Challenges Faced
 - Challenge 1
