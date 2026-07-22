@@ -1,218 +1,239 @@
-# Week 7: Track A - Remote Sensing & Satellite Imagery OR Track B - Path Planning & State Estimation - Progress Log
+# Week 7: Month 2 Specialization - Progress Log
 
-**Date:** September 2, 2026
-**Week Focus:** Applied specialization - Remote sensing or advanced autonomy
+**Week:** September 2 – September 8, 2026  
+**Week Focus:** **Track A – Remote Sensing & Satellite Imagery** *or* **Track B – Path Planning & State Estimation**
 
-## TRACK A: Remote Sensing & Satellite Imagery
-
-### Daily Progress - Track A
-
-#### Monday (Day 1)
-- [ ] Google Earth Engine platform introduction
-- [ ] Set up GEE Python API
-- [ ] Completed Earth Engine beginner course
-- [ ] Accessed Sentinel-2 satellite imagery
-- **Time:** 2.5 hours
-- **Notes:** 
-
-#### Tuesday (Day 2)
-- [ ] Learned NDVI and spectral indices calculation
-- [ ] Processed Sentinel-2 multispectral imagery
-- [ ] Generated vegetation index maps
-- [ ] Studied false color composites
-- **Time:** 2.5 hours
-- **Notes:** 
-
-#### Wednesday (Day 3)
-- [ ] Remote sensing data preprocessing with Rasterio and GDAL
-- [ ] Implemented atmospheric correction basics
-- [ ] Created data pipelines for classification
-- [ ] Tested on Kaggle agriculture datasets
-- **Time:** 2.5 hours
-- **Notes:** 
-
-#### Thursday (Day 4)
-- [ ] Change detection analysis on time-series satellite data
-- [ ] Implemented change detection algorithm
-- [ ] Analyzed crop growth patterns over time
-- [ ] Studied temporal analysis techniques
-- **Time:** 2.5 hours
-- **Notes:** 
-
-#### Friday (Day 5)
-- [ ] Integrated deep learning model with geospatial pipeline
-- [ ] Created end-to-end satellite image analysis workflow
-- [ ] Generated output maps and visualizations
-- [ ] Pushed pipeline to GitHub
-- **Time:** 2 hours
-- **Notes:** 
-
-#### Saturday (Day 6)
-- [ ] QGIS training for visualization
-- [ ] Created publication-quality maps
-- [ ] Studied geospatial data formats (GeoTIFF, shapefiles)
-- **Time:** 2 hours
-- **Notes:** 
-
-#### Sunday (Day 7)
-- [ ] Weekly reflection and pipeline optimization
-- [ ] Document remote sensing learnings
-- [ ] Prepare for Week 8 capstone project
-- **Time:** 1 hour
-- **Notes:** 
-
-### Key Learnings - Track A
-
-#### Remote Sensing Concepts Mastered
-- ✅ Satellite imaging platforms (Sentinel-2, Landsat, Planet)
-- ✅ Google Earth Engine platform and Python API
-- ✅ Spectral indices (NDVI, NDWI, NDBI, EVI)
-- ✅ Multispectral and hyperspectral imagery
-- ✅ Radiometric and atmospheric correction
-- ✅ Land use/land cover classification
-- ✅ Time-series analysis and change detection
-- ✅ Geospatial data formats and tools (GDAL, Rasterio, QGIS)
-- ✅ Integration with machine learning models
-- ⏳ Hyperspectral unmixing
-
-### Track A Metrics
-- NDVI classification accuracy: 91%
-- Change detection sensitivity: 94%
-- Processing speed: 2 minutes per 100km² area
+> **Choose ONE track and complete its objectives.**
 
 ---
 
-## TRACK B: Path Planning & State Estimation
+# 🛰️ Track A – Remote Sensing & Satellite Imagery
 
-### Daily Progress - Track B
+## Weekly Progress
 
-#### Monday (Day 1)
-- [ ] Studied graph-based path planning (Dijkstra, A*)
-- [ ] Learned sampling-based planning (RRT, RRT*)
-- [ ] Implemented RRT algorithm from scratch
-- [ ] Tested on 2D and 3D collision avoidance scenarios
-- **Time:** 2.5 hours
-- **Notes:** 
+### Google Earth Engine
+- [ ] Set up Google Earth Engine
+- [ ] Installed Earth Engine Python API
+- [ ] Accessed Sentinel-2 imagery
+- [ ] Explored Landsat datasets
+- [ ] Processed multispectral imagery
+- **Time:** ____ hours
+- **Notes:**
 
-#### Tuesday (Day 2)
-- [ ] Studied probabilistic roadmap (PRM) method
-- [ ] Implemented PRM planner in Python
-- [ ] Compared RRT vs PRM performance
-- [ ] Integrated with ROS2 navigation stack
-- **Time:** 2.5 hours
-- **Notes:** 
+### Spectral Analysis
+- [ ] Calculated NDVI
+- [ ] Calculated NDWI
+- [ ] Calculated NDBI
+- [ ] Generated false-color composites
+- [ ] Visualized vegetation maps
+- **Time:** ____ hours
+- **Notes:**
 
-#### Wednesday (Day 3)
-- [ ] Kalman Filter theory and implementation
-- [ ] Extended Kalman Filter (EKF) basics
-- [ ] Implemented EKF for drone state estimation
-- [ ] Fused IMU and GPS data for position estimation
-- **Time:** 2.5 hours
-- **Notes:** 
+### Geospatial Processing
+- [ ] Learned Rasterio
+- [ ] Learned GDAL
+- [ ] Processed GeoTIFF files
+- [ ] Performed atmospheric correction
+- [ ] Built preprocessing pipeline
+- **Time:** ____ hours
+- **Notes:**
 
-#### Thursday (Day 4)
-- [ ] Unscented Kalman Filter (UKF) implementation
-- [ ] Compared EKF vs UKF performance
-- [ ] Integrated state estimator with flight controller
-- [ ] Tested robustness to sensor noise
-- **Time:** 2.5 hours
-- **Notes:** 
+### Remote Sensing Applications
+- [ ] Land Cover Classification
+- [ ] Crop Health Monitoring
+- [ ] Change Detection
+- [ ] Time-Series Analysis
+- [ ] QGIS Visualization
+- **Time:** ____ hours
+- **Notes:**
 
-#### Friday (Day 5)
-- [ ] Dynamic path replanning with moving obstacles
-- [ ] Implemented cost function for optimal trajectory
-- [ ] Integrated path planner + state estimator in ROS2
-- [ ] Pushed code to GitHub
-- **Time:** 2 hours
-- **Notes:** 
-
-#### Saturday (Day 6)
-- [ ] Trajectory optimization using differential flatness
-- [ ] Polynomial trajectory generation
-- [ ] Smooth trajectory tracking control
-- **Time:** 2 hours
-- **Notes:** 
-
-#### Sunday (Day 7)
-- [ ] Weekly reflection and system validation
-- [ ] Document autonomy stack learnings
-- [ ] Prepare for Week 8 capstone project
-- **Time:** 1 hour
-- **Notes:** 
-
-### Key Learnings - Track B
-
-#### Path Planning Concepts Mastered
-- ✅ Graph-based search (Dijkstra, A*, Theta*)
-- ✅ Sampling-based methods (RRT, RRT*, PRM)
-- ✅ Collision checking and distance computation
-- ✅ 2D and 3D path planning
-- ✅ Dynamic replanning and receding horizon control
-- ✅ Trajectory optimization
-- ✅ Performance analysis and benchmarking
-
-#### State Estimation Concepts Mastered
-- ✅ Kalman Filter theory
-- ✅ Extended Kalman Filter (EKF) implementation
-- ✅ Unscented Kalman Filter (UKF)
-- ✅ Sensor fusion (IMU, GPS, magnetometer)
-- ✅ Covariance estimation and tuning
-- ✅ Outlier detection and rejection
-- ✅ Real-time state estimation
-
-### Track B Metrics
-- RRT* path planning success rate: 98%
-- Average path cost optimality: 96% of theoretical minimum
-- State estimator position error: ±0.5m
-- Estimation filter convergence: <2 seconds
+### Documentation & GitHub
+- [ ] Updated learning log
+- [ ] Uploaded notebooks
+- [ ] Uploaded geospatial scripts
+- [ ] Planned Week 8
+- **Time:** ____ hours
+- **Notes:**
 
 ---
 
-## Time Allocation (Both Tracks)
+## Key Learnings (Track A)
+
+### Remote Sensing Concepts Mastered
+- [ ] Google Earth Engine
+- [ ] Sentinel-2
+- [ ] Landsat
+- [ ] Spectral Indices (NDVI, NDWI, NDBI)
+- [ ] Rasterio
+- [ ] GDAL
+- [ ] GeoTIFF
+- [ ] Land Cover Classification
+- [ ] Change Detection
+- [ ] QGIS
+
+### Challenges Faced
+-
+
+### Resources Used
+- Google Earth Engine
+- Rasterio Documentation
+- GDAL Documentation
+- QGIS
+- Kaggle Satellite Datasets
+- Git & GitHub
+
+---
+
+## Time Allocation (Track A)
+
+```text
+Google Earth Engine:   5 hours
+Remote Sensing:        6 hours
+Geospatial Processing: 5 hours
+Documentation:         2 hours
+--------------------------------
+Total:                18 hours
 ```
-Hands-on coding:     40% (8 hours)
-Structured learning: 30% (6 hours)
-Project work:        20% (4 hours)
-Documentation:       10% (2 hours)
-Total:              20 hours
+
+## Week 7 Deliverables (Track A)
+
+- [ ] Google Earth Engine Pipeline
+- [ ] NDVI & Spectral Analysis
+- [ ] Geospatial Processing Scripts
+- [ ] Land Cover Classification
+- [ ] QGIS Maps
+- [ ] GitHub Updated
+
+---
+
+# 🚁 Track B – Path Planning & State Estimation
+
+## Weekly Progress
+
+### Path Planning
+- [ ] Learned Dijkstra Algorithm
+- [ ] Learned A* Algorithm
+- [ ] Built RRT Planner
+- [ ] Built RRT* Planner
+- [ ] Learned PRM
+- **Time:** ____ hours
+- **Notes:**
+
+### State Estimation
+- [ ] Learned Kalman Filter
+- [ ] Built Extended Kalman Filter
+- [ ] Learned Unscented Kalman Filter
+- [ ] Implemented Sensor Fusion
+- [ ] Tuned Estimation Parameters
+- **Time:** ____ hours
+- **Notes:**
+
+### Autonomous Navigation
+- [ ] Dynamic Replanning
+- [ ] Collision Avoidance
+- [ ] Trajectory Optimization
+- [ ] ROS2 Integration
+- [ ] Flight Controller Integration
+- **Time:** ____ hours
+- **Notes:**
+
+### Performance Evaluation
+- [ ] Compared RRT vs PRM
+- [ ] Compared EKF vs UKF
+- [ ] Tested Navigation Accuracy
+- [ ] Benchmarked Performance
+- **Time:** ____ hours
+- **Notes:**
+
+### Documentation & GitHub
+- [ ] Updated learning log
+- [ ] Uploaded ROS2 packages
+- [ ] Uploaded planning algorithms
+- [ ] Planned Week 8
+- **Time:** ____ hours
+- **Notes:**
+
+---
+
+## Key Learnings (Track B)
+
+### Path Planning Concepts Mastered
+- [ ] Dijkstra
+- [ ] A*
+- [ ] RRT
+- [ ] RRT*
+- [ ] PRM
+- [ ] Collision Avoidance
+- [ ] Trajectory Optimization
+
+### State Estimation Concepts Mastered
+- [ ] Kalman Filter
+- [ ] Extended Kalman Filter
+- [ ] Unscented Kalman Filter
+- [ ] Sensor Fusion
+- [ ] Covariance Estimation
+
+### Challenges Faced
+-
+
+### Resources Used
+- PythonRobotics
+- ROS2 Documentation
+- PX4 Documentation
+- Kalman Filter Tutorials
+- Git & GitHub
+
+---
+
+## Time Allocation (Track B)
+
+```text
+Path Planning:         6 hours
+State Estimation:      6 hours
+ROS2 Integration:      4 hours
+Documentation:         2 hours
+--------------------------------
+Total:                18 hours
 ```
 
-## Week 7 Deliverables (Choose One Track)
+## Week 7 Deliverables (Track B)
 
-### Track A Deliverables
-- ✅ Google Earth Engine pipeline for satellite analysis
-- ✅ Rasterio-based geospatial data processing scripts
-- ✅ Spectral index computation and visualization
-- ✅ Change detection analysis on time-series data
-- ✅ End-to-end land cover classification system (91% accuracy)
-- ✅ Publication-quality QGIS maps
-- ✅ Pushed to GitHub
+- [ ] RRT/RRT* Planner
+- [ ] EKF State Estimator
+- [ ] Sensor Fusion System
+- [ ] ROS2 Navigation Stack
+- [ ] GitHub Updated
 
-### Track B Deliverables
-- ✅ RRT* path planner implementation
-- ✅ PRM path planning with performance comparison
-- ✅ Extended Kalman Filter state estimator
-- ✅ Unscented Kalman Filter variant
-- ✅ Integrated path planning + state estimation in ROS2
-- ✅ Dynamic replanning system with collision avoidance
-- ✅ Pushed to GitHub
+---
 
 ## Next Week (Week 8) Preview
 
-**Track A:** Applied Projects - Crop Health Monitoring & Classification
-**Track B:** Applied Projects - Autonomous Drone Mission with Full Stack
+### Track A
+- Satellite Image Classification
+- Crop Health Monitoring
+- Change Detection Project
+- End-to-End Geospatial Pipeline
+
+**Deliverable:** Complete Remote Sensing Project
+
+### Track B
+- Autonomous Drone Mission
+- Full Navigation Stack
+- Flight Testing in Simulation
+- Integrated Drone Autonomy
+
+**Deliverable:** Autonomous Drone Mission Simulation
+
+---
 
 ## Reflection
 
 **What went well:**
-- Specialized knowledge deepening well
-- Integration of advanced techniques working smoothly
-- Good preparation for capstone projects
+-
 
 **What to improve:**
-- Real satellite data processing needs optimization
-- Path planning edge cases need more testing
+-
 
-**Confidence Level:** 8/10 in specialized domain
+**Confidence Level:** ____ /10
 
-**Ready for Month 3 Projects?** YES ✅
+**Ready for Week 8?** YES / NO
