@@ -1,8 +1,8 @@
 # Week 1: Programming Core + Math Refresh
 
-## 🎯 Goals This Week
+##  Goals This Week
 
-- [ ] Complete CS50P Lectures 0–2 (functions, variables, loops)
+- [done] Complete CS50P Lectures 0–2 (functions, variables, loops)
 - [ ] Master Python basics: data structures, OOP fundamentals, NumPy
 - [ ] Start C/C++ fundamentals with pointers and memory
 - [ ] Understand linear algebra (vectors, matrices, transformations)
