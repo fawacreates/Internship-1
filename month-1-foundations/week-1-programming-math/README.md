@@ -2,14 +2,14 @@
 
 ##  Goals This Week
 
-- [done] Complete CS50P Lectures 0–2 (functions, variables, loops)
+- [x] Complete CS50P Lectures 0–2 (functions, variables, loops)
 - [ ] Master Python basics: data structures, OOP fundamentals, NumPy
 - [ ] Start C/C++ fundamentals with pointers and memory
 - [ ] Understand linear algebra (vectors, matrices, transformations)
 - [ ] Set up Git/GitHub workflow
 - [ ] Push 3–4 small Python scripts to this folder
 
-## 📚 Learning Resources
+##  Learning Resources
 
 ### Python Fundamentals
 - **CS50P (Harvard):** https://cs50.harvard.edu/python/
@@ -35,7 +35,7 @@
   - Expected time: ~2 hours
   - **Why:** Professional workflow, portfolio building
 
-## 📝 Daily Log
+##  Daily Log
 
 ### Day 1–2: Python Basics
 **Focus:** CS50P Lecture 0 + setting up Python environment
@@ -73,7 +73,7 @@
 
 ```
 
-## 🛠️ Deliverable: Your First Python Scripts
+##  Deliverable: Your First Python Scripts
 
 Create these scripts and commit them:
 
@@ -89,7 +89,7 @@ Write a program that summarizes commits or reads from JSON.
 ### 4. Simple Geometry (`geometry.py`)
 Write a program that calculates distances and linear transformations.
 
-## ✅ Progress Checklist
+##  Progress Checklist
 
 - [ ] CS50P Lectures 0–2 completed
 - [ ] Learn C the Hard Way completed (at least Chapters 1–10)
@@ -99,7 +99,7 @@ Write a program that calculates distances and linear transformations.
 - [ ] GitHub commits follow good commit message format
 - [ ] This learning log updated daily
 
-## 🧠 Self-Assessment
+## Self-Assessment
 
 At the end of Week 1, you should be able to:
 
