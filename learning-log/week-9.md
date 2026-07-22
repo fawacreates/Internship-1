@@ -1,108 +1,139 @@
-# Week 9: Month 3 - Project Development Begins - Progress Log
+# Week 9: Month 3 - Project Development - Progress Log
 
-**Date:** September 16, 2026
-**Week Focus:** Start high-value capstone projects, prototype development
+**Week:** September 16 – September 22, 2026  
+**Week Focus:** Production-Level Project Development & Portfolio Building
 
-## Daily Progress
+---
 
-### Monday (Day 1)
-- [ ] Architecture planning for software project 1 (Satellite Pipeline)
-- [ ] Set up project repository structure
-- [ ] Database schema design for satellite data
-- [ ] Created API specification document
-- **Time:** 2.5 hours
-- **Notes:** 
+## Weekly Progress
 
-### Tuesday (Day 2)
-- [ ] Backend API development (Flask/FastAPI)
-- [ ] Database models and migrations
-- [ ] Image preprocessing pipeline module
-- [ ] Model serving infrastructure
-- **Time:** 2.5 hours
-- **Notes:** 
+### Project 1 – Satellite Image Analysis Platform
+- [ ] Planned project architecture
+- [ ] Created repository structure
+- [ ] Designed database schema
+- [ ] Built FastAPI backend
+- [ ] Created image preprocessing pipeline
+- [ ] Integrated trained ML model
+- [ ] Built Streamlit frontend
+- [ ] Added interactive visualization
+- **Time:** ____ hours
+- **Notes:**
 
-### Wednesday (Day 3)
-- [ ] Frontend development (Streamlit interface)
-- [ ] Interactive map visualizations
-- [ ] Real-time processing status updates
-- [ ] Results download functionality
-- **Time:** 2.5 hours
-- **Notes:** 
+### Project 2 – Autonomous Drone Simulator
+- [ ] Designed software architecture
+- [ ] Created mission planning module
+- [ ] Built obstacle generation system
+- [ ] Improved simulator performance
+- [ ] Integrated navigation components
+- [ ] Tested complete workflow
+- **Time:** ____ hours
+- **Notes:**
 
-### Thursday (Day 4)
-- [ ] Project 2: Autonomous Drone Simulator architecture
-- [ ] Multi-scenario mission planning
-- [ ] Advanced obstacle field generation
-- [ ] Performance optimization
-- **Time:** 2.5 hours
-- **Notes:** 
+### Integration & Testing
+- [ ] Integrated frontend and backend
+- [ ] Tested API endpoints
+- [ ] Benchmarked processing speed
+- [ ] Created sample datasets
+- [ ] Fixed major bugs
+- **Time:** ____ hours
+- **Notes:**
 
-### Friday (Day 5)
-- [ ] Integration testing for both projects
-- [ ] Created demo datasets
-- [ ] Performance benchmarking
-- [ ] Initial GitHub commits
-- **Time:** 2 hours
-- **Notes:** 
+### Documentation & GitHub
+- [ ] Wrote project README
+- [ ] Added API documentation
+- [ ] Created installation guide
+- [ ] Uploaded source code
+- [ ] Updated project boards
+- **Time:** ____ hours
+- **Notes:**
 
-### Saturday (Day 6)
-- [ ] User documentation writing
-- [ ] API documentation (Swagger/OpenAPI)
-- [ ] Setup and installation guides
-- **Time:** 2 hours
-- **Notes:** 
+### Hardware Project Planning
+- [ ] Finalized Quadcopter Bill of Materials
+- [ ] Planned PCB design
+- [ ] Created CAD sketches
+- [ ] Listed required components
+- **Time:** ____ hours
+- **Notes:**
 
-### Sunday (Day 7)
-- [ ] Weekly reflection and project status
-- [ ] Plan for Week 10 - hardware projects
-- [ ] Identify remaining work
-- **Time:** 1 hour
-- **Notes:** 
+---
 
-## Key Developments This Week
+## Key Learnings
 
-### Software Project 1: Satellite Image Analysis
-- ✅ Backend API with FastAPI
-- ✅ Image processing pipeline
-- ✅ Model serving ready
-- ✅ Streamlit frontend prototype
-- ⏳ Cloud deployment (Week 10+)
+### Software Development
+- [ ] FastAPI Backend
+- [ ] Streamlit Frontend
+- [ ] API Design
+- [ ] Database Modeling
+- [ ] ML Model Integration
+- [ ] System Architecture
+- [ ] Performance Optimization
 
-### Software Project 2: Drone Simulator
-- ✅ Multi-scenario architecture
-- ✅ Advanced obstacle handling
-- ✅ Performance optimization begun
-- ⏳ Advanced GCS features (Week 10+)
+### Engineering Workflow
+- [ ] Project Planning
+- [ ] Documentation
+- [ ] Integration Testing
+- [ ] Benchmarking
+- [ ] Version Control
 
-### Hardware Projects Planning
-- [ ] Quadcopter Bill of Materials (BoM) finalized
-- [ ] Sensor Payload PCB design started
-- [ ] FreeCAD/Fusion 360 3D models
+### Challenges Faced
+-
 
-## Time Allocation This Week
+### Resources Used
+- FastAPI Documentation
+- Streamlit Documentation
+- PyTorch
+- Git & GitHub
+- Swagger / OpenAPI
+
+---
+
+## Time Allocation
+
+```text
+Software Development:    9 hours
+Project Integration:     5 hours
+Documentation:           3 hours
+Hardware Planning:       2 hours
+----------------------------------
+Total:                  19 hours
 ```
-Hands-on coding:     45% (9 hours)
-Structured learning: 15% (3 hours)
-Project work:        35% (7 hours)
-Documentation:       5% (1 hour)
-Total:              20 hours
-```
+
+## Week 9 Deliverables
+
+- [ ] Satellite Image Platform Prototype
+- [ ] Drone Simulator Prototype
+- [ ] FastAPI Backend
+- [ ] Streamlit Interface
+- [ ] API Documentation
+- [ ] GitHub Updated
+
+---
 
 ## Next Week (Week 10) Preview
 
-**Focus:** Project polish, hardware assembly begins
+### Project Development
+- Cloud Deployment
+- Performance Optimization
+- Authentication
+- Production Testing
+
+### Hardware
+- Quadcopter Assembly
+- PCB Design
+- Sensor Integration
+
+**Deliverable:** Production-ready software prototype
+
+---
 
 ## Reflection
 
 **What went well:**
-- Clear project architecture established
-- Good progress on both software projects
-- Prototype functionality working
+-
 
 **What to improve:**
-- Need to accelerate deployment work
-- Hardware procurement delays
+-
 
-**Confidence Level:** 7.5/10
+**Confidence Level:** ____ /10
 
-**On Track for Month 3 Completion?** YES ✅
+**Ready for Week 10?** YES / NO
