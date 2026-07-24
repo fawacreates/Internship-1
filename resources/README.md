@@ -59,3 +59,9 @@ Curated learning materials for the 3-month aerospace internship journey.
 - Portfolio templates
 - Interview questions
 - Company research
+
+## Copyright
+
+© 2026 Farwa. All rights reserved.
+
+This repository is provided for viewing and learning purposes. You may fork it on GitHub for personal learning, but you may not redistribute, republish, or claim this work as your own without permission.
