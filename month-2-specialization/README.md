@@ -37,3 +37,9 @@ month-2-specialization/
 - Production-ready code portfolio
 - Ready for Month 3 capstone projects
 - Company-relevant technical depth
+
+## Copyright
+
+© 2026 Farwa. All rights reserved.
+
+This repository is provided for viewing and learning purposes. You may fork it on GitHub for personal learning, but you may not redistribute, republish, or claim this work as your own without permission.
