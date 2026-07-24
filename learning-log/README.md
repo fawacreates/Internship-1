@@ -87,3 +87,9 @@ Use this template for new weeks:
 4. **Link code** - Reference commits or GitHub links
 5. **Weekly review** - Spend 30 min on Sunday reflecting
 6. **Future reference** - This becomes your internship interview story
+
+## Copyright
+
+© 2026 Farwa. All rights reserved.
+
+This repository is provided for viewing and learning purposes. You may fork it on GitHub for personal learning, but you may not redistribute, republish, or claim this work as your own without permission.
