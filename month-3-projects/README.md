@@ -121,3 +121,9 @@ Thanks,
 ✅ 50+ lines of original code per project
 ✅ Cold emails sent to 10+ target companies
 ✅ Portfolio website (optional but impressive)
+
+## Copyright
+
+© 2026 Farwa. All rights reserved.
+
+This repository is provided for viewing and learning purposes. You may fork it on GitHub for personal learning, but you may not redistribute, republish, or claim this work as your own without permission.
