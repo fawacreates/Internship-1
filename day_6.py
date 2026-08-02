@@ -1,7 +1,3 @@
-# ==========================
-# Tuple Exercises
-# ==========================
-
 # 1. Unpack siblings and parents from family_members
 family_members = (
     "Ali", "Sara", "Ahmed", "Fatima",   # siblings
